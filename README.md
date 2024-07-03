@@ -1,13 +1,21 @@
-# 자바 1일차
+# 자료형
 
-## src : source(소스의 줄인말)
+## 정수형
 
-## 코드를 작성할때는 src에서 작성을 함
+1. byte(1byte)
+2. short(2byte)
+3. int(4byte)
+4. long(8byte)
 
-## java de (디버그 콘솔 셋팅)
+## 실수형
 
-## 깃허브 test
+1. float
+2. double
 
-## 내용 입력하기
+## 문자형
 
-## 테스트 2
+1. char
+
+## 논리형
+
+2. boolean
