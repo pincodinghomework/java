@@ -2,20 +2,20 @@
 
 ## 정수형
 
-- byte(1byte)
-- short(2byte)
-- int(4byte)
-- long(8byte)
+1. byte(1byte)
+2. short(2byte)
+3. int(4byte)
+4. long(8byte)
 
 ## 실수형
 
-- float
-- double
+1. float
+2. double
 
 ## 문자형
 
-- char
+1. char
 
 ## 논리형
 
-- boolean
+2. boolean
