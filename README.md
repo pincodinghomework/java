@@ -19,3 +19,5 @@
 ## 논리형
 1. 테스트
 2. boolean
+
+- https://github.com/postforty/java-workspace?tab=readme-ov-file

@@ -1,0 +1,22 @@
+package section03;
+
+public class Practice0303 {
+  public static void main(String[] args) {
+    boolean bool1 = true;
+    boolean bool2 = false;
+
+    // 알맞은 코드를 작성하시오!
+
+    boolean andResult = bool1 && bool2;
+    boolean orResult = bool1 || bool2;
+    boolean notBool1 = !bool1;
+    boolean notBool2 = !bool2;
+
+
+    System.out.println("bOOL1 AND bool2\t :" + andResult);
+    System.out.println("bOOL1 OR bool2\t :" + orResult);
+    System.out.println("NOT OR bool1\t :" + notBool1);
+    System.out.println("NOT OR bool2\t :" + notBool2);
+
+  }
+}
