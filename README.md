@@ -17,7 +17,10 @@
 1. char
 
 ## 논리형
+
 1. 테스트
 2. boolean
 
 - https://github.com/postforty/java-workspace?tab=readme-ov-file
+
+- 2024 07 04 테스트
