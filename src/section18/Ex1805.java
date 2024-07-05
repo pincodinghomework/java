@@ -11,12 +11,12 @@ public class Ex1805 {
     int intNum2 = scanner.nextInt();
     int intNum3 = scanner.nextInt();
 
-    System.out.println("intNum1\t"+ intNum1);
-    System.out.println("intNum1\t"+ intNum2);
-    System.out.println("intNum1\t"+ intNum3);
-    System.out.println("합/t : "+ (intNum1 + intNum2 + intNum3));
+    System.out.println("intNum1\t" + intNum1);
+    System.out.println("intNum1\t" + intNum2);
+    System.out.println("intNum1\t" + intNum3);
+    System.out.println("합/t : " + (intNum1 + intNum2 + intNum3));
 
     scanner.close();
 
-     }
   }
+}

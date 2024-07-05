@@ -9,11 +9,11 @@ public class Ex0513 {
     int sum = 0;
     int number;
 
-    do{
+    do {
       System.out.print("숫자를 입력하세요(종료는 0입력) : ");
       number = scanner.nextInt();
       sum += number;
-    }while (number != 0);
+    } while (number != 0);
 
     System.out.println("입력된 숫자의 합 : " + sum);
     scanner.close();
