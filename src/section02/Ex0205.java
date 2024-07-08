@@ -11,8 +11,6 @@ public class Ex0205 {
     long longNum2 = 100000000L;
     System.out.println("longNum : " + longNum2);
 
-  }
-
-  
+  }  
 
 }
