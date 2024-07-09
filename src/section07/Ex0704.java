@@ -17,7 +17,7 @@ public class Ex0704 {
 
         Arrays.sort(integerNumbers, Collections.reverseOrder());
 
-        System.out.println("integerNumbers 정렬 후 : "+Arrays.toString(integerNumbers));
+        System.out.println("integerNumbers 정렬 후 : "+ Arrays.toString(integerNumbers));
 
     }
 }
